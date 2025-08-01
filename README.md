@@ -75,18 +75,4 @@ If this project helped you, consider:
 - ⭐ **Starring** the repository  
 - ☕ **[Buying Me A Coffee](#)** to support continued development
 
----
-
-## 📦 Repository Info
-
-- **License:** GPL-3.0  
-- **Languages:**  
-  - Jupyter Notebook: 99.7%  
-  - Other: 0.3%  
-- **Stars:** 🌟 1  
-- **Forks:** 🍴 0  
-- **Watchers:** 👀 0
-
----
-
 > Made with ❤️ by passionate deep learning enthusiasts.
